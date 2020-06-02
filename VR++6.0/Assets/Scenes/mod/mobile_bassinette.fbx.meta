@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: eedeba183cc26a1448da1712a299bba3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bed
+    100002: Body_Low
+    100004: "Cinema_4D_\u7F16\u8F91\u5668"
+    100006: Head_Low
+    100008: //RootNode
+    100010: mobile_bassinette
+    100012: Plane
+    100014: stool
+    100016: visitors_chair
+    100018: X018_020_mobile_cart_1_
+    100020: X018_021_mobile_cart_2_
+    100022: X018_023_mobile_cart_4_
+    100024: X018_024_mobile_cart_5_
+    400000: bed
+    400002: Body_Low
+    400004: "Cinema_4D_\u7F16\u8F91\u5668"
+    400006: Head_Low
+    400008: //RootNode
+    400010: mobile_bassinette
+    400012: Plane
+    400014: stool
+    400016: visitors_chair
+    400018: X018_020_mobile_cart_1_
+    400020: X018_021_mobile_cart_2_
+    400022: X018_023_mobile_cart_4_
+    400024: X018_024_mobile_cart_5_
+    2000000: "Cinema_4D_\u7F16\u8F91\u5668"
+    2100000: "\u6750\u8D28"
+    2100002: "\u6750\u8D28.1"
+    2100004: pad
+    2100006: gray metal
+    2100008: ss metal
+    2100010: white metal
+    2100012: gray
+    2100014: biege metal
+    2100016: wheels
+    2100018: biege
+    2100020: white
+    2100022: controls 2
+    2100024: controls 1
+    2100026: black
+    2100028: controls 3
+    2100030: controls 4
+    2100032: wood grain
+    2100034: bed pad
+    2100036: green
+    2100038: black plastic
+    2100040: fabric
+    2100042: wood
+    2100044: black metal
+    2100046: seat
+    2100048: gray plastic
+    2100050: incubator glass
+    2300000: bed
+    2300002: Body_Low
+    2300004: Head_Low
+    2300006: mobile_bassinette
+    2300008: Plane
+    2300010: stool
+    2300012: visitors_chair
+    2300014: X018_020_mobile_cart_1_
+    2300016: X018_021_mobile_cart_2_
+    2300018: X018_023_mobile_cart_4_
+    2300020: X018_024_mobile_cart_5_
+    3300000: bed
+    3300002: Body_Low
+    3300004: Head_Low
+    3300006: mobile_bassinette
+    3300008: Plane
+    3300010: stool
+    3300012: visitors_chair
+    3300014: X018_020_mobile_cart_1_
+    3300016: X018_021_mobile_cart_2_
+    3300018: X018_023_mobile_cart_4_
+    3300020: X018_024_mobile_cart_5_
+    4300000: Body_Low
+    4300002: Head_Low
+    4300004: Plane
+    4300006: bed
+    4300008: X018_023_mobile_cart_4_
+    4300010: X018_024_mobile_cart_5_
+    4300012: X018_021_mobile_cart_2_
+    4300014: X018_020_mobile_cart_1_
+    4300016: visitors_chair
+    4300018: stool
+    4300020: mobile_bassinette
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
